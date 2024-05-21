@@ -114,15 +114,15 @@ Version 1.0
             <div class="minus"></div>
           </div>
           <div class="acclist">
-            <p>Diese Therapie zielt auf die Behandlung von Triggerpunkten – schmerzhaften Verhärtungen in der Muskulatur. Durch gezielten Druck werden die Verspannungen gelöst, was zu einer Schmerzlinderung und besseren Beweglichkeit führt.</p>
+            <p>Diese Therapie zielt ab auf die Behandlung von Triggerpunkten – schmerzhaften Verhärtungen in der Muskulatur. Durch gezielten Druck werden die Verspannungen gelöst, was zu einer Schmerzlinderung und besseren Beweglichkeit führt.</p>
           </div>
         </div>
     </div>
 
     <footer>
         <p>
-            Stephanie Meier, Buchstrasse 27, 9000 St.Gallen <br>
-            Telefon 078 642 06 35, <a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch
+            Stephanie Meier, Buchstrasse 27, 9000 St.Gallen, Telefon 078 642 06 35, <a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch <br><br>
+            Bitte kontaktieren Sie uns per E-Mail oder WhatsApp. Telefonanrufe können nur unregelmässig entgegengenommen werden.
         </p>
     </footer>
    

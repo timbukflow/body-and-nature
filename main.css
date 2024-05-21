@@ -88,6 +88,7 @@ h1 {
   display: inline-block;
   color: white;
   margin: 0;
+  width: 90%;
 }
 
 .pmcontainer {
@@ -146,6 +147,9 @@ footer {
   Responsiv
 -----------------------------------*/
 @media (max-width: 960px) {
+  h2, h3, h4, p, a, li, button {
+    font-size: 20px;
+  }
 
   .header-container {
     flex-direction: column;
@@ -165,5 +169,23 @@ footer {
   }
   .acclist p {
     width: 100%;
+  }
+  .pmcontainer {
+    width: 18px;
+    height: 18px;
+  }
+  .plus, .minus {
+    position: absolute;
+    left: 8px;
+    width: 1px;
+    height: 18px;
+    background-color: white;
+    vertical-align: middle;
+  }
+  .minus {
+    width: 18px;
+    height: 1px;
+    top: 8px;
+    left: 0px;
   }
 }
