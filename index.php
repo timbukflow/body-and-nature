@@ -58,8 +58,65 @@ Version 1.0
 </head>
 
 <body>
-    <div class="logo">
-        <img src="img/logo.svg" alt="logo">
+    <div class="header-container">
+        <div class="header-logo">
+            <img src="img/logo.svg" alt="logo">
+        </div>
+        <div class="header-img"></div>
+    </div>
+
+    <div class="angebot">
+        <h1>Massagetherapien</h1>
+        <div class="acctitle">
+          <h2>Klassische Massage</h2>
+          <div class="pmcontainer">
+            <div class="plus"></div>
+            <div class="minus"></div>
+          </div>
+          <div class="acclist">
+            <p>Diese Form der Massage zielt darauf ab, Muskelverspannungen zu lösen, die Durchblutung zu fördern und das allgemeine Wohlbefinden zu verbessern. Sie beinhaltet Techniken wie Kneten, Streichen und Reiben der Muskulatur.</p>
+          </div>
+        </div>
+        <div class="acctitle">
+          <h2>Dorn-Therapie</h2>
+          <div class="pmcontainer">
+            <div class="plus"></div>
+            <div class="minus"></div>
+          </div>
+          <div class="acclist">
+            <p>Eine sanfte manuelle Therapie zur Korrektur von Fehlstellungen der Wirbel und Gelenke. Sie wird oft bei Rücken- und Gelenkschmerzen angewendet und kombiniert Bewegungen des Patienten mit gezieltem Druck des Therapeuten.</p>
+          </div>
+        </div>
+        <div class="acctitle">
+          <h2>Schwangerschaftsmassage</h2>
+          <div class="pmcontainer">
+            <div class="plus"></div>
+            <div class="minus"></div>
+          </div>
+          <div class="acclist">
+            <p>Eine spezielle Massageform, die auf die Bedürfnisse schwangerer Frauen abgestimmt ist. Sie hilft, typische Beschwerden wie Rückenschmerzen und Schwellungen zu lindern und fördert das Wohlbefinden der werdenden Mutter.</p>
+          </div>
+        </div>
+        <div class="acctitle">
+          <h2>Manuelle Schmerztherapie MST</h2>
+          <div class="pmcontainer">
+            <div class="plus"></div>
+            <div class="minus"></div>
+          </div>
+          <div class="acclist">
+            <p>Eine gezielte Therapie zur Behandlung von Schmerzen und Bewegungseinschränkungen. Sie kombiniert verschiedene manuelle Techniken, um die Ursachen von Schmerzen zu behandeln und die Mobilität zu verbessern.</p>
+          </div>
+        </div>
+        <div class="acctitle">
+          <h2>Myofasziale Triggerpunkt-Therapie</h2>
+          <div class="pmcontainer">
+            <div class="plus"></div>
+            <div class="minus"></div>
+          </div>
+          <div class="acclist">
+            <p>Diese Therapie zielt auf die Behandlung von Triggerpunkten – schmerzhaften Verhärtungen in der Muskulatur. Durch gezielten Druck werden die Verspannungen gelöst, was zu einer Schmerzlinderung und besseren Beweglichkeit führt.</p>
+          </div>
+        </div>
     </div>
 
     <footer>
