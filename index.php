@@ -121,7 +121,7 @@ Version 1.0
 
     <footer>
         <p>
-            Stephanie Meier, Buchstrasse 27, 9000 St.Gallen, Telefon 078 642 06 35, <a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch <br><br>
+            Stephanie Meier, <span>Buchstrasse 27,</span><span>9000 St.Gallen,</span><span>Telefon 078 642 06 35,</span><span><a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch</span><br>
             Bitte kontaktieren Sie uns per E-Mail oder WhatsApp. Telefonanrufe können nur unregelmässig entgegengenommen werden.
         </p>
     </footer>

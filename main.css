@@ -188,4 +188,7 @@ footer {
     top: 8px;
     left: 0px;
   }
+  footer span {
+    display: block;
+  }
 }
