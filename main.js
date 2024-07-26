@@ -14,9 +14,9 @@ $(document).ready(function() {
         let currentIndex = 0;
         const slides = $('.slide');
         const totalSlides = slides.length;
-        const slideWidth = $('.slider').width();
+        let slideWidth = $('.slider').width();
         let slideInterval;
-        
+    
         function goToSlide(index) {
             $('.slides').css('transition', 'transform 1.5s ease-in-out');
             $('.slides').css('transform', `translateX(${-index * slideWidth}px)`);
@@ -43,20 +43,37 @@ $(document).ready(function() {
             }
         }
     
-        $('.bullet').on('click', function() {
+        function startAutoSlide() {
+            if ($(window).width() > 600) {
+                slideInterval = setInterval(autoSlide, 4000);
+            }
+        }
+    
+        function stopAutoSlide() {
             clearInterval(slideInterval);
+        }
+    
+        $('.bullet').on('click', function() {
+            stopAutoSlide();
             const index = $(this).data('index');
             goToSlide(index);
         });
     
-        slideInterval = setInterval(autoSlide, 4000);
-    
         $('.slider').hover(function() {
-            clearInterval(slideInterval);
+            stopAutoSlide();
         }, function() {
-            slideInterval = setInterval(autoSlide, 4000);
+            startAutoSlide();
+        });
+    
+        $(window).on('resize', function() {
+            slideWidth = $('.slider').width();
+            goToSlide(currentIndex);
+            stopAutoSlide();
+            startAutoSlide();
         });
     
         goToSlide(currentIndex);
+        startAutoSlide();
+    
     
 });
