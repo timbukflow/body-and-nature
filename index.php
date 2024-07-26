@@ -80,12 +80,12 @@ Version 2.0
         <div class="slides">
             <div class="slide">
               <p>
-                Massage ist Vertrauenssache und genau deshalb fühlt man sich bei Stéphanie von der ersten Minute an wortwörtlich in guten Händen. Durch ihre Fachkompetenz und ihre warmherzige Art ist jede Therapiesitzung entspannend und wohltuend - und mein persönliches Highlight vor einem anstrengenden Arbeitstag. Wer eine professionelle und vertrauensvolle Massage sucht, sollte Stéphanie kennen! <br><br> <span>M. M. aus Niederteufen</span>
+                Ich habe seit einigen Monaten starke Nackenschmerzen und dadurch auch Spannungskopfschmerzen mit Ohrrauschen. Durch die regelmässigen Massagen bei Stephanie wurden meine Beschwerden deutlich gelindert. Die Spannungskopfschmerzen sind vollständig weg und meinem Nacken geht es durch die regelmässigen Massagen viel besser. Das Ambiente der Praxis ist sehr wohlig und warm, Stephanie sorgt für den vollkommenen Wohlfühl Effekt. Entspannung garantiert! Ich würde Stephanie jedem von Herzen empfehlen. <br><br> <span>T. S. aus Herisau</span>
               </p>
             </div>
             <div class="slide">
               <p>
-                Ich habe seit einigen Monaten starke Nackenschmerzen und dadurch auch Spannungskopfschmerzen mit Ohrrauschen. Durch die regelmässigen Massagen bei Stephanie wurden meine Beschwerden deutlich gelindert. Die Spannungskopfschmerzen sind vollständig weg und meinem Nacken geht es durch die regelmässigen Massagen viel besser. Das Ambiente der Praxis ist sehr wohlig und warm, Stephanie sorgt für den vollkommenen Wohlfühl Effekt. Entspannung garantiert! Ich würde Stephanie jedem von Herzen empfehlen. <br><br> <span>T. S. aus Herisau</span>
+                Massage ist Vertrauenssache und genau deshalb fühlt man sich bei Stéphanie von der ersten Minute an wortwörtlich in guten Händen. Durch ihre Fachkompetenz und ihre warmherzige Art ist jede Therapiesitzung entspannend und wohltuend - und mein persönliches Highlight vor einem anstrengenden Arbeitstag. Wer eine professionelle und vertrauensvolle Massage sucht, sollte Stéphanie kennen! <br><br> <span>M. M. aus Niederteufen</span>
               </p>
             </div>
             <div class="slide">
