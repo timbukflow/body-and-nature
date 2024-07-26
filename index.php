@@ -164,7 +164,7 @@ Version 2.0
 
         <div class="accont">
           <div class="acctitle last">
-            <h3>Myofasziale Triggerpunkt-Therapie</h3>
+            <h3>Myofasziale Triggerpunkt Therapie</h3>
             <div class="pmcontainer">
               <div class="plus"></div>
               <div class="minus"></div>
