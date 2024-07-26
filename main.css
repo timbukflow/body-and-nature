@@ -118,7 +118,7 @@ span {
 
 .video-container {
   position: relative;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   overflow: hidden;
 }
@@ -312,9 +312,8 @@ footer {
   h3, h4, p, a, li, button {font-size: 19px;}
 
   .header-container {
-    height: calc(100vh - 15px);
+    height: calc(75vh - 15px);
   }
-
   .header-logo {
     top: 50px;
     left: 30px;
@@ -322,12 +321,13 @@ footer {
   .header-intro {
     right: 30px;
     width: 65%;
+
   }
   .header-intro h1 {
     text-align: right;
   }
   .content {
-    padding: 60px 10px 0;
+    padding: 50px 10px 0;
   }
   .about {
     gap: 30px;
