@@ -11,15 +11,12 @@ $(document).ready(function() {
     });
 
     //Slider
-    $(document).ready(function() {
         let currentIndex = 0;
         const slides = $('.slide');
         const totalSlides = slides.length;
         const slideWidth = $('.slider').width();
         let slideInterval;
-        let startX = 0;
-        let endX = 0;
-    
+        
         function goToSlide(index) {
             $('.slides').css('transition', 'transform 1.5s ease-in-out');
             $('.slides').css('transform', `translateX(${-index * slideWidth}px)`);
@@ -33,8 +30,17 @@ $(document).ready(function() {
         }
     
         function autoSlide() {
-            currentIndex = (currentIndex + 1) % totalSlides;
-            goToSlide(currentIndex);
+            currentIndex++;
+            if (currentIndex === totalSlides) {
+                setTimeout(function() {
+                    $('.slides').css('transition', 'none');
+                    $('.slides').css('transform', `translateX(0px)`);
+                    currentIndex = 0;
+                    updateBullets();
+                }, 500);
+            } else {
+                goToSlide(currentIndex);
+            }
         }
     
         $('.bullet').on('click', function() {
@@ -43,39 +49,14 @@ $(document).ready(function() {
             goToSlide(index);
         });
     
-        $('.slider').hover(
-            function() {
-                clearInterval(slideInterval);
-            },
-            function() {
-                slideInterval = setInterval(autoSlide, 4000);
-            }
-        );
-    
-        $('.slider').on('touchstart', function(event) {
-            startX = event.originalEvent.touches[0].clientX;
-        });
-    
-        $('.slider').on('touchmove', function(event) {
-            endX = event.originalEvent.touches[0].clientX;
-        });
-    
-        $('.slider').on('touchend', function() {
-            if (startX > endX + 50) { // Swipe left
-                currentIndex = (currentIndex + 1) % totalSlides;
-                goToSlide(currentIndex);
-            } else if (startX < endX - 50) { // Swipe right
-                currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-                goToSlide(currentIndex);
-            }
-        });
-    
         slideInterval = setInterval(autoSlide, 4000);
+    
+        $('.slider').hover(function() {
+            clearInterval(slideInterval);
+        }, function() {
+            slideInterval = setInterval(autoSlide, 4000);
+        });
+    
         goToSlide(currentIndex);
-    });
-    
-    
-    
-    
     
 });
