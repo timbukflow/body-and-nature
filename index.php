@@ -75,7 +75,7 @@ Version 2.0
 
     <!-- Referenzen -->
     <div class="content">
-      <h2>Wohlfühlmomente <br>Stimmen von Patientinnen und Patienten</h2>
+      <h2>Wohlfühlmomente: <br>Stimmen von Patientinnen und Patienten</h2>
       <div class="slider ">
         <div class="slides">
             <div class="slide">
