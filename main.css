@@ -313,6 +313,7 @@ footer {
   body {padding: 15px;}
   h1, h2 {font-size: 26px; line-height: 1.25;}
   h3, h4, p, a, li, button {font-size: 19px;}
+  p {line-height: 1.4;}
 
   .header-container {
     height: calc(75vh - 15px);
