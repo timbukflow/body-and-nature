@@ -162,9 +162,9 @@ Version 2.0
           </div>
         </div>
 
-        <div class="accont">
-          <div class="acctitle last">
-            <h3>Myofasziale Triggerpunkt Therapie</h3>
+        <div class="accont last">
+          <div class="acctitle ">
+            <h3>Myofasziale Triggerpunkt-Therapie</h3>
             <div class="pmcontainer">
               <div class="plus"></div>
               <div class="minus"></div>
