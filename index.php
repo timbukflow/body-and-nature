@@ -186,12 +186,12 @@ Version 2.0
         <div>
           <h2>Therapeutin <br> Stephanie Meier</h2>
           <p>
-            Als diplomierte Berufsmasseurin mit langjähriger Berufserfahrung sowie fortlaufender Weiterbildung im manuellen Bereich und aktuell in der Ausbildung zur Naturheilpraktikerin, widme ich mich Ihrer Gesundheit und Ihrem Wohlbefinden.
+            Ich bin zweifache Mutter und ausgebildete Pflegefachfrau HF mit langjähriger Berufserfahrung.Im Rahmen meiner Ausbildung zu Naturheilpraktikerin habe ich das Diplom zur Berufsmasseurin abgeschlossen und mich im manuellen Bereich fortlaufend weitergebildet.
             <br><br>
-            Mein Ziel ist es, Ihnen zu helfen, Ihr inneres Gleichgewicht und Ihre Harmonie wiederzufinden. Der Mensch als Wunderwerk in seiner Ganzheit steht dabei im Mittelpunkt meiner Arbeit. Mit viel Hingabe und Empathie nehme ich mir die nötige Zeit, um die für Sie passende Behandlungsform zu finden und eine entspannende, heilsame Wohlfühlatmosphäre zu schaffen.
+            Mit meinen Therapieformen möchte ich den Menschen individuell helfen wieder in Gleichgewicht und Harmonie mit dem eigenen Körper zu kommen. Für mich steht dabei das Wunderwerk Mensch in seiner Ganzheit im Mittelpunkt. Dabei ist es mir wichtig genügend Zeit einzuplanen, um die passende Behandlungsform zu ermitteln und durchzuführen. Es liegt mir am Herzen, eine Wohlfühlatmosphäre zu schaffen und mit Hingabe und Empathie für ein entspannendes und heilsames Erlebnis zu sorgen. 
             <br><br>
-            Fühlen Sie sich eingeladen, bei mir anzukommen und loszulassen. Ich freue mich auf Ihre Kontaktaufnahme.
-          </p>
+            Fühlen Sie sich eingeladen, bei mir einzutreten, anzukommen und loszulassen – Ihr erster Schritt zu mehr Leichtigkeit im Leben.
+           </p>
         </div> 
     </div>
 
