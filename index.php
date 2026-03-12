@@ -11,32 +11,38 @@ Version 2.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Body and nature - Stephanie Meier</title>
+    <title>Massagetherapie St.Gallen | Body and Nature – Stephanie Meier</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="In ihrer Praxis in St.Gallen bietet Stephanie Meier eine Vielfalt an Massagetherapien, darunter klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasciale Triggerpunkt-Therapie. Sie kombiniert traditionelle und spezialisierte Methoden, um individuelle Bedürfnisse für Entspannung und Schmerzlinderung zu erfüllen.">
-    <meta name="keywords" content="Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST, Myofasciale Triggerpunkt-Therapie">
+    <meta name="description" content="Massagepraxis in St.Gallen: Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasziale Triggerpunkt-Therapie. Stephanie Meier – diplomierte Berufsmasseurin und Pflegefachfrau HF.">
+    <meta name="keywords" content="Massage St.Gallen, Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST, Myofasziale Triggerpunkt-Therapie, Massagepraxis St.Gallen">
 
-    <meta name="author" content="Body and nature - Stephanie Meier">
+    <meta name="author" content="Body and Nature – Stephanie Meier">
     <link rel="canonical" href="https://bodyandnature.ch/" />
+    <link rel="alternate" hreflang="de-CH" href="https://bodyandnature.ch/" />
 
-    <meta name="robots" content="index, follow" /> 
+    <meta name="robots" content="index, follow" />
     <meta http-equiv="cache-control" content="public, max-age=3600" />
     <meta http-equiv="pragma" content="cache" />
+
+    <meta name="geo.region" content="CH-SG" />
+    <meta name="geo.placename" content="St.Gallen" />
+    <meta name="geo.position" content="47.4245;9.3767" />
+    <meta name="ICBM" content="47.4245, 9.3767" />
 
     <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
     <link rel="icon" type="image/png" href="/img/favicon.png">
 
-    <meta property="og:title" content="Body and nature - Stephanie Meier">
-    <meta property="og:description" content="In ihrer Praxis in St.Gallen bietet Stephanie Meier eine Vielfalt an Massagetherapien, darunter klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasciale Triggerpunkt-Therapie. Sie kombiniert traditionelle und spezialisierte Methoden, um individuelle Bedürfnisse für Entspannung und Schmerzlinderung zu erfüllen.">
+    <meta property="og:title" content="Massagetherapie St.Gallen | Body and Nature – Stephanie Meier">
+    <meta property="og:description" content="Massagepraxis in St.Gallen: Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasziale Triggerpunkt-Therapie. Diplomierte Berufsmasseurin Stephanie Meier.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://bodyandnature.ch">
     <meta property="og:image" content="https://bodyandnature.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Body and nature - Stephanie Meier">
-    <meta name="twitter:description" content="In ihrer Praxis in St.Gallen bietet Stephanie Meier eine Vielfalt an Massagetherapien, darunter klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasciale Triggerpunkt-Therapie. Sie kombiniert traditionelle und spezialisierte Methoden, um individuelle Bedürfnisse für Entspannung und Schmerzlinderung zu erfüllen.">
+    <meta name="twitter:title" content="Massagetherapie St.Gallen | Body and Nature – Stephanie Meier">
+    <meta name="twitter:description" content="Massagepraxis in St.Gallen: Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasziale Triggerpunkt-Therapie. Diplomierte Berufsmasseurin Stephanie Meier.">
     <meta name="twitter:image" content="https://bodyandnature.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -46,6 +52,87 @@ Version 2.0
     <meta property="business:contact_data:postal_code" content="9000">
     <meta property="business:contact_data:country_name" content="Switzerland">
     
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "HealthAndBeautyBusiness",
+      "name": "Body and Nature – Stephanie Meier",
+      "description": "Massagepraxis in St.Gallen: Klassische Massage, Dorn-Therapie, Schwangerschaftsmassage, Manuelle Schmerztherapie MST und Myofasziale Triggerpunkt-Therapie.",
+      "url": "https://bodyandnature.ch",
+      "email": "praxis@bodyandnature.ch",
+      "image": "https://bodyandnature.ch/img/og-image.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Buchstrasse 27",
+        "addressLocality": "St.Gallen",
+        "postalCode": "9000",
+        "addressRegion": "SG",
+        "addressCountry": "CH"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.4245,
+        "longitude": 9.3767
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Stephanie Meier",
+        "jobTitle": "Diplomierte Berufsmasseurin & Pflegefachfrau HF"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Massagetherapien",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Klassische Massage",
+              "description": "Lösen von Muskelverspannungen, Förderung der Durchblutung und Verbesserung des allgemeinen Wohlbefindens durch Kneten, Streichen und Reiben der Muskulatur."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dorn-Therapie",
+              "description": "Sanfte manuelle Therapie zur Korrektur von Fehlstellungen der Wirbel und Gelenke bei Rücken- und Gelenkschmerzen."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Schwangerschaftsmassage",
+              "description": "Spezielle Massageform für schwangere Frauen zur Linderung von Rückenschmerzen und Schwellungen."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Manuelle Schmerztherapie MST",
+              "description": "Gezielte Therapie zur Behandlung von Schmerzen und Bewegungseinschränkungen durch verschiedene manuelle Techniken."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Myofasziale Triggerpunkt-Therapie",
+              "description": "Behandlung von schmerzhaften Triggerpunkten in der Muskulatur durch gezielten Druck zur Schmerzlinderung und besseren Beweglichkeit."
+            }
+          }
+        ]
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "St.Gallen"
+      },
+      "priceRange": "$$"
+    }
+    </script>
+
     <link rel="stylesheet" href="main.css" />
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -59,9 +146,9 @@ Version 2.0
 
 <body>
     <!-- Header -->
-    <div class="header-container">
+    <header class="header-container">
         <div class="header-logo">
-            <img src="img/logo.svg" alt="logo">
+            <img src="img/logo.svg" alt="Body and Nature – Massagepraxis St.Gallen">
         </div>
         <div class="header-intro">
             <h1>Leichtigkeit für Körper und Geist</h1>
@@ -71,8 +158,9 @@ Version 2.0
                 <source src="img/bodyandnature.mp4" type="video/mp4">
             </video>
         </div>
-    </div>
+    </header>
 
+    <main>
     <!-- Referenzen -->
     <div class="content">
       <h2>Wohlfühlmomente: <br>Stimmen von Patientinnen und Patienten</h2>
@@ -89,8 +177,9 @@ Version 2.0
               </p>
             </div>
             <div class="slide">
-            <p>
-              Ich gehe regelmässig zu Stephanie wegen meinem hohen Muskeltonus. Durch ihre Faszienmassagebehandlung schafft sie es jedesmal meine Blockaden und Triggerpunkte zu lösen und eine Entspannung herzustellen. Stephanie nimmt mich als Kundin ernst und ist immer sehr interessiert dabei. Mit ihrer herzlichen, warmherzigen und fachkompetenten Art ist man bei Stephanie in den besten Händen.<br><br> <span>E. M. aus St.Gallen</span>
+              <p>
+                Ich gehe regelmässig zu Stephanie wegen meinem hohen Muskeltonus. Durch ihre Faszienmassagebehandlung schafft sie es jedesmal meine Blockaden und Triggerpunkte zu lösen und eine Entspannung herzustellen. Stephanie nimmt mich als Kundin ernst und ist immer sehr interessiert dabei. Mit ihrer herzlichen, warmherzigen und fachkompetenten Art ist man bei Stephanie in den besten Händen.<br><br> <span>E. M. aus St.Gallen</span>
+              </p>
             </div>
         </div>
       </div>
@@ -195,16 +284,16 @@ Version 2.0
         </div> 
     </div>
 
+    </main>
+
     <!-- Footer -->
     <footer>
         <p>
             <strong>Stephanie Meier</strong> 
             <span>Buchstrasse 27</span>
             <span>9000 St.Gallen</span>
-            <span>Telefon 078 642 06 35</span>
-            <span><a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch</span> <br>
-            Bitte kontaktieren Sie mich per E-Mail oder WhatsApp.<br> 
-            Telefonanrufe können nur unregelmässig entgegengenommen werden.
+            <span><a href="mailto:praxis@bodyandnature.ch">praxis@bodyandnature.ch</a></span> <br>
+            Bitte kontaktieren Sie mich per E-Mail
         </p>
     </footer>
    
